@@ -13,3 +13,5 @@ datasets==2.20.0
 trl==0.11.3
 
 视频教程:https://www.bilibili.com/video/BV1SgmZYMEJQ
+
+2025年3月17日更新: 增加 4.ppov2_数学问答
